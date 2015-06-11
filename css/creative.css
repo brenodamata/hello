@@ -52,7 +52,8 @@ p {
 }
 
 .bg-primary {
-    background-color: #4A90E2;
+    /*background-color: #4A90E2;*/
+    background-image: url(../img/flux_capacitor.jpg);
 }
 
 .bg-dark {
