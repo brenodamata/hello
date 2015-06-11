@@ -52,19 +52,10 @@ p {
 }
 
 .bg-primary {
-    /*background-color: #4A90E2;*/    
-    position: relative;
-    width: 100%;
-    min-height: auto;
-    text-align: center;
-    color: #4A90E2;
+    /*background-color: #4A90E2;*/   
     background-image: url(../img/flux_capacitor.jpg);
     /*background-image: url(../img/header.jpg);*/
     background-position: center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
 }
 
 .bg-dark {
