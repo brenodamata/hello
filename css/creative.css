@@ -60,7 +60,9 @@ p {
 
 .bg-dark {
     color: #fff;
-    background-color: #222;
+    /*background-color: #222;*/
+    background-image: url(../img/use_cases.jpg);
+    background-position: center;
 }
 
 .text-faded {
